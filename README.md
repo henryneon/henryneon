@@ -14,10 +14,10 @@
 ![Javascript-323330 style=for-the-badge logo=javascript logoColor=F7DF1E](https://github.com/henryneon/henryneon/assets/170297824/17319c2d-5874-4bf7-8bfc-fab3ebbda044)
 
 ### 🤔 Preciso de ajuda com
-- Novas ideias e projetos em Javascript
+- Novas ideias e projetos em Javascript.
 
 ### ⚡ Fato engraçado: 
-Eu definitivamente bebo mais café do que água.
+Eu definitivamente tenho uma girafa de pelúcia desde os meus 4 anos de idade.
 
 
  ![fantasy-samurai-vs-purple-fire-dragon-moewalls-com (online-video-cutter com)](https://github.com/henryneon/henryneon/assets/170297824/f1d30a1a-900a-4263-99c0-86ba6cc67e83)
