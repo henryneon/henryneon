@@ -1,5 +1,5 @@
 ### Olá pesquisador! 🔎
- Olá, eu sou Henry, um entusiasta de 17 anos que está mergulhando no mundo da cibersegurança! 💻 Atualmente focado em aprender e aprimorar minhas habilidades em segurança da informação e hacking ético. Sempre em busca de desafios interessantes e oportunidades para expandir meu conhecimento. Além disso, apaixonado por programação e tecnologia em geral. 
+ Olá, eu sou Henry, um entusiasta de 18 anos que está mergulhando no mundo da cibersegurança! 💻 Atualmente focado em aprender e aprimorar minhas habilidades em segurança da informação e hacking ético. Sempre em busca de desafios interessantes e oportunidades para expandir meu conhecimento. Além disso, apaixonado por programação e tecnologia em geral. 
 
 **Ferramentas de Debugs </>**
 
