@@ -16,6 +16,7 @@
 ### 🤔 Preciso de ajuda com
 - Novas ideias e projetos em Javascript.
 
+(repositório ainda não completo)
 
 
  ![fantasy-samurai-vs-purple-fire-dragon-moewalls-com (online-video-cutter com)](https://github.com/henryneon/henryneon/assets/170297824/f1d30a1a-900a-4263-99c0-86ba6cc67e83)
