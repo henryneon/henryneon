@@ -1,5 +1,5 @@
 ### Olá pesquisador! 🔎
-Eu me chamo Henry, um entusiasta de 18 anos que possui foco na área da cibersegurança!  Atualmente focado em aprender e aprimorar minhas habilidades em segurança da informação e hacking ético. Sempre em busca de desafios interessantes e oportunidades para expandir meu conhecimento. Além disso, apaixonado por programação e tecnologia em geral. 
+Eu me chamo Henry, um entusiasta de 18 anos que possui foco na área da cibersegurança!  Atualmente focado em aprender e aprimorar minhas habilidades em segurança da informação e hacking ético. Sempre em busca de desafios interessantes e oportunidades para expandir meu conhecimento.
 
 **Ferramentas de Debugs </>**
 
