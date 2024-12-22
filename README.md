@@ -1,7 +1,7 @@
-### Olá pesquisador! 🔎
+### 唯 Olá pesquisador! 🔎
 Eu me chamo Henry, um entusiasta de 18 anos que possui foco na área da cibersegurança!  Atualmente focado em aprender e aprimorar minhas habilidades em segurança da informação e hacking ético. Sempre em busca de desafios interessantes e oportunidades para expandir meu conhecimento.
 
-**Ferramentas de Debugs </>**
+**始める Ferramentas de Debugs </>**
 
 ![Visual_Studio-5C2D91 style=for-the-badge logo=visual_20studio logoColor=white](https://github.com/henryneon/henryneon/assets/170297824/94cac0b4-1e39-43be-9c0f-8d733fa7e5be)     ![WebStorm-000000 style=for-the-badge logo=WebStorm logoColor=white](https://github.com/henryneon/henryneon/assets/170297824/54802398-1656-4849-a537-32727a357792)
 
