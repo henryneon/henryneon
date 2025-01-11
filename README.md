@@ -1,5 +1,5 @@
 ### 唯 Olá pesquisador! 🔎
-Eu me chamo Henry, um entusiasta de 18 anos que possui foco na área da cibersegurança!  Atualmente focado em aprender e aprimorar minhas habilidades em segurança da informação e hacking ético. Sempre em busca de desafios interessantes e oportunidades para expandir meu conhecimento.
+Eu me chamo Henry, um estudante de 18 anos que possui foco na área da cibersegurança e perícia digital.  Atualmente focado em aprender e aprimorar minhas habilidades em ambas as partes. Sempre em busca de desafios interessantes e oportunidades para expandir meu conhecimento.
 
 **始める Ferramentas de Debugs </>**
 
@@ -16,7 +16,7 @@ Eu me chamo Henry, um entusiasta de 18 anos que possui foco na área da ciberseg
 ### 失敗する 🤔 Preciso de ajuda com
 - Novas ideias e projetos em Javascript.
 
-(repositório ainda não completo)
+(OBS: uso esse perfil apenas para fixar alguns projetos que fiz sozinho ou em grupo.)
 
 
  ![fantasy-samurai-vs-purple-fire-dragon-moewalls-com (online-video-cutter com)](https://github.com/henryneon/henryneon/assets/170297824/f1d30a1a-900a-4263-99c0-86ba6cc67e83)
